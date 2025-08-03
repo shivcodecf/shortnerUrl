@@ -74,11 +74,11 @@ npm run dev
 ```
 ---
 
-📊 API Endpoints
+📊 Backend API Endpoints
 
 POST /api/user/signup --  Register a new user
 
-POST /api/user/     --    Login user
+POST /api/user/login     --    Login user
 
 POST /shorten:      --    Accepts a long URL, returns a unique short code.
 
@@ -90,6 +90,21 @@ GET /getAll:         --   Returns   data  of  login  user  with  pagination
 
 
 ---
+
+
+📊 Frontend Routes
+
+
+"/"          --   login
+ 
+"/signup"     --   Signup
+
+"/shorten"    --   Main Page  of Url Shortner
+
+
+---
+
+
 
 🤖 AI Assistance
 
