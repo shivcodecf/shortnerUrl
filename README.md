@@ -98,6 +98,22 @@ A few sections contain inline comments (e.g., // Suggested by AI and reviewed) f
 Before starting the project, I focused on understanding the core logic behind how a URL shortening service works — specifically, what happens behind the scenes when a user enters an original URL. This helped guide the flow of both backend API design and frontend integration.
 
 
+
+
+⚠️ Important Note
+
+ Please ensure that original URLs begin with `http://` or `https://`  
+
+ ❌ `www.example.com` → will not work  
+
+✅ `https://www.example.com` → valid
+
+
+
+
+
+
+
 📸 Screenshots
 ![alt text](image.png)
 
