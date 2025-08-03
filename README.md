@@ -72,6 +72,7 @@ cd ../client
 npm run dev
 
 ```
+---
 
 📊 API Endpoints
 
@@ -88,7 +89,7 @@ GET /stats/:code:   --    Returns stats like creation date and click count.
 GET /getAll:         --   Returns   data  of  login  user  with  pagination 
 
 
-
+---
 
 🤖 AI Assistance
 Some parts of this project ( and code formatting) were assisted by AI tools (ChatGPT by OpenAI) to accelerate development.
@@ -98,7 +99,7 @@ A few sections contain inline comments (e.g., // Suggested by AI and reviewed) f
 Before starting the project, I focused on understanding the core logic behind how a URL shortening service works — specifically, what happens behind the scenes when a user enters an original URL. This helped guide the flow of both backend API design and frontend integration.
 
 
-
+---
 
 ⚠️ Important Note
 
@@ -110,7 +111,7 @@ Before starting the project, I focused on understanding the core logic behind ho
 
 
 
-
+---
 
 
 
