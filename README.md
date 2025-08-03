@@ -95,7 +95,6 @@ GET /getAll:         --   Returns   data  of  login  user  with  pagination
 
 Some parts of this project ( and code formatting) were assisted by AI tools (ChatGPT by OpenAI) to accelerate development.
 Code was understood, verified, and tested manually before being committed.
-A few sections contain inline comments (e.g., // Suggested by AI and reviewed) for transparency.
 
 Before starting the project, I focused on understanding the core logic behind how a URL shortening service works — specifically, what happens behind the scenes when a user enters an original URL. This helped guide the flow of both backend API design and frontend integration.
 
