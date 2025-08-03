@@ -16,6 +16,12 @@ const urlSchema = new mongoose.Schema({
     required: true, 
     unique: true 
   },
+  userId:{
+    
+    type: mongoose.Schema.Types.ObjectId,
+    ref: 'User'
+    
+  },
   createdAt: { 
     type: Date, 
     default: Date.now 

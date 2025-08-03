@@ -17,7 +17,7 @@ function App() {
   const appRouter = createBrowserRouter([
 
     {
-      path: "/login",
+      path: "/",
       element: <Login />,
 
     },
@@ -27,7 +27,7 @@ function App() {
 
     },
      {
-      path: "/",
+      path: "/shorten",
       element: <ShortenerUrl/>,
 
     },
