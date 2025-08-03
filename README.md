@@ -92,6 +92,7 @@ GET /getAll:         --   Returns   data  of  login  user  with  pagination
 ---
 
 🤖 AI Assistance
+
 Some parts of this project ( and code formatting) were assisted by AI tools (ChatGPT by OpenAI) to accelerate development.
 Code was understood, verified, and tested manually before being committed.
 A few sections contain inline comments (e.g., // Suggested by AI and reviewed) for transparency.
