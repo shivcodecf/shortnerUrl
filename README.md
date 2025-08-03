@@ -135,6 +135,8 @@ Before starting the project, I focused on understanding the core logic behind ho
 
 ![alt text](image-1.png)
 
+![alt text](image-2.png)
+
 💡 Made with ❤️ by Shivam Yadav
 
 
